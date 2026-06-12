@@ -1,10 +1,10 @@
-# 🐐 NightOwl Goat Lab
+# 🐐 NightOwl: Goat Lab
 
 Bienvenido a mi rincón de GitHub.
 
-Estudiante de Ingeniería en Software.
+Estudiante de Ingeniería en Software. Proximamente titulado profesional
 
-Actualmente aprendiendo:
+Actualmente dominando:
 - Java
 - Python
 - Git
